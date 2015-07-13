@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5222
+
+A Vim plgin to highlight JavaScript's Template Strings contents in other FileType syntax rule which you want.
+
+Please see https://github.com/Quramy/vim-js-pretty-template 
